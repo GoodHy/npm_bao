@@ -6,6 +6,7 @@
 
 2,##发布流程
 npm login
+#npm version <update_type> #是否是首次发布
 npm publish
 
 3,#撤销发布24小时内

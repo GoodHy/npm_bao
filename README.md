@@ -11,3 +11,6 @@ npm publish
 #撤销发布24小时内
 npm unpublish
 npm unpublish --force 强制删除
+
+#添加npm用户
+npm adduser

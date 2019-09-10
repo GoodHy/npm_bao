@@ -1,0 +1,25 @@
+{
+  "name": "toast-npmwfewefwewe",
+  "version": "1.0.0",
+  "description": "\"toast组建\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodHy/npm_bao.git"
+  },
+  "keywords": [
+    "toast组建"
+  ],
+  "author": "hyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoodHy/npm_bao/issues"
+  },
+  "homepage": "https://github.com/GoodHy/npm_bao#readme",
+  "dependencies": {
+    "toast-npm": "^1.0.0"
+  }
+}
